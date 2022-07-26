@@ -5,6 +5,12 @@
   font-family: 'Open Sans', sans-serif;;  
 }
 
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(57, 36, 36);
+    }
+  }
+
 html {
     font-size: 62.5%;
 }
